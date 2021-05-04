@@ -118,7 +118,9 @@ function setupRW() {
 		die("[!] Failed to setup addrof/fakeobj primitives");
 	debug_log("[+] Succesfully got addrof/fakeobj");
 	debug_log("");
-	debug_log("......................ATENÇÃO!!! AGUARDE 8 SEGUNDOS.......................");
+	debug_log("......................A T E N Ç Ã O ! ! !  NÃO DEIXE NADA PLUGADO NAS PORTAS USBs.......................");
+	debug_log("");
+	debug_log("......................A G U A R D E ! ! !  10 SEGUNDOS PARA O ENVIO DO HOST 75xl PARA O GUIA DO USUÁRIO E PARA NO NAVEGADOR (playstation.com).......................");
 
 	/* Getting code execution */
 	/* ... */
